@@ -72,7 +72,7 @@ function showMainMenu() {
         updateSettings();
       }
     },
-    'Programmable': {
+    'Programmierbar': {
       value: settings.blerepl,
       format: boolFormat,
       onchange: () => {
