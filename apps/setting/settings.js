@@ -88,7 +88,7 @@ function showMainMenu() {
         updateSettings();
       }
     },
-    'LCD Timeout': {
+    'LCD Helligkeit': {
       value: settings.timeout,
       min: 0,
       max: 60,
