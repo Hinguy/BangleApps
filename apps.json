@@ -1119,15 +1119,5 @@
     {"name":"timer.app.js","url":"app.js"},
     {"name":"timer.img","url":"app-icon.js","evaluate":true}
   ]
-},
-  { "id": "HelloWorld",
-  "name": "Hello World",
-  "shortName":"HWorld",
-  "version":"0.01",
-  "description": "This is a description of HelloWorld",
-  "tags": "",
-  "storage": [
-    {"name":"helloworld.app.js","url":"appHelloWorld.js"}
-  ]
 }
 ]
